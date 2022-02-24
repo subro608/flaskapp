@@ -1,4 +1,4 @@
-site published at https://secure-mountain-05355.herokuapp.com/
+site published at https://infinite-falls-28549.herokuapp.com/
 # For deployment
 
 upload the code to github repo
